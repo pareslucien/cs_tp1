@@ -1,0 +1,11 @@
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\obj\Release\archives.csproj.AssemblyReference.cache
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\obj\Release\archives.csproj.SuggestedBindingRedirects.cache
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\obj\Release\archives.csproj.CoreCompileInputs.cache
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\bin\Release\archives.exe.config
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\bin\Release\archives.exe
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\bin\Release\archives.pdb
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\bin\Release\MySql.Data.dll
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\bin\Release\MySql.Data.xml
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\obj\Release\archives.csproj.CopyComplete
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\obj\Release\archives.exe
+Z:\drive\bts\cs\tp1\cs_tp1\archives\archives\obj\Release\archives.pdb
